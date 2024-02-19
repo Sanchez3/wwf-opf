@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+   <font>
+       <info aa='1' size='70' smooth='1' stretchH='100' bold='0' padding='0,0,0,0' spacing='0,0' charset='' italic='0' unicode='0' face='text-font2'/>
+       <common scaleW='576' packed='0' pages='1' lineHeight='172' scaleH='576' base='152'/>
+       <pages>
+            <page id='0' file='text-font2.png'/>
+       </pages>
+        <chars count='6'>
+            <char xadvance='16' x='340' chnl='0' yoffset='-118' y='2' xoffset='0' id='32' page='0' height='0' width='0'/>
+            <char xadvance='42' x='142' chnl='0' yoffset='-118' y='276' xoffset='3' id='50' page='0' height='272' width='108'/>
+            <char xadvance='42' x='142' chnl='0' yoffset='-118' y='2' xoffset='2' id='53' page='0' height='272' width='108'/>
+            <char xadvance='23' x='252' chnl='0' yoffset='-118' y='2' xoffset='5' id='46' page='0' height='272' width='86'/>
+            <char xadvance='70' x='2' chnl='0' yoffset='-113' y='276' xoffset='2' id='19975' page='0' height='272' width='138'/>
+            <char xadvance='70' x='2' chnl='0' yoffset='-112' y='2' xoffset='2' id='20159' page='0' height='272' width='138'/>
+       </chars>
+   </font>

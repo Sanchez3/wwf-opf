@@ -1,0 +1,83 @@
+
+spine-fish0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上嘴唇
+  rotate: false
+  xy: 621, 786
+  size: 117, 94
+  orig: 117, 94
+  offset: 0, 0
+  index: -1
+下嘴唇
+  rotate: false
+  xy: 1195, 885
+  size: 128, 63
+  orig: 128, 63
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 621, 882
+  size: 572, 333
+  orig: 572, 333
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 406, 578
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+瞳孔
+  rotate: false
+  xy: 1616, 1689
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+身
+  rotate: false
+  xy: 2, 1549
+  size: 1612, 460
+  orig: 1612, 460
+  offset: 0, 0
+  index: -1
+鱼尾
+  rotate: false
+  xy: 2, 729
+  size: 617, 818
+  orig: 617, 818
+  offset: 0, 0
+  index: -1
+鱼鳍_上
+  rotate: true
+  xy: 2, 2
+  size: 725, 402
+  orig: 725, 402
+  offset: 0, 0
+  index: -1
+鱼鳍_下1
+  rotate: true
+  xy: 1195, 950
+  size: 265, 484
+  orig: 265, 484
+  offset: 0, 0
+  index: -1
+鱼鳍_下2
+  rotate: false
+  xy: 621, 1217
+  size: 1030, 330
+  orig: 1030, 330
+  offset: 0, 0
+  index: -1
+鱼鳍_中
+  rotate: false
+  xy: 1616, 1783
+  size: 301, 226
+  orig: 301, 226
+  offset: 0, 0
+  index: -1

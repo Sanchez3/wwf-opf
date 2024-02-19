@@ -1,0 +1,132 @@
+
+spine-fish1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 1017
+  size: 612, 498
+  orig: 612, 498
+  offset: 0, 0
+  index: -1
+上嘴唇
+  rotate: true
+  xy: 1568, 1342
+  size: 173, 120
+  orig: 173, 120
+  offset: 0, 0
+  index: -1
+下嘴唇
+  rotate: false
+  xy: 593, 557
+  size: 182, 70
+  orig: 182, 70
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: false
+  xy: 1679, 1557
+  size: 356, 489
+  orig: 356, 489
+  offset: 0, 0
+  index: -1
+眼珠
+  rotate: false
+  xy: 287, 45
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 990, 909
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+胡须_bottom1
+  rotate: true
+  xy: 616, 833
+  size: 230, 372
+  orig: 230, 372
+  offset: 0, 0
+  index: -1
+胡须_bottom2
+  rotate: true
+  xy: 2, 2
+  size: 141, 283
+  orig: 141, 283
+  offset: 0, 0
+  index: -1
+胡须_bottom3
+  rotate: true
+  xy: 593, 629
+  size: 83, 361
+  orig: 83, 361
+  offset: 0, 0
+  index: -1
+胡须_bottom4
+  rotate: true
+  xy: 593, 714
+  size: 117, 350
+  orig: 117, 350
+  offset: 0, 0
+  index: -1
+胡须_bottom5
+  rotate: false
+  xy: 463, 582
+  size: 128, 433
+  orig: 128, 433
+  offset: 0, 0
+  index: -1
+胡须_top
+  rotate: false
+  xy: 2, 474
+  size: 459, 541
+  orig: 459, 541
+  offset: 0, 0
+  index: -1
+鱼身
+  rotate: false
+  xy: 2, 1517
+  size: 1675, 529
+  orig: 1675, 529
+  offset: 0, 0
+  index: -1
+鱼鳍
+  rotate: false
+  xy: 1178, 1030
+  size: 410, 206
+  orig: 410, 206
+  offset: 0, 0
+  index: -1
+鱼鳍1
+  rotate: false
+  xy: 1221, 1238
+  size: 345, 277
+  orig: 345, 277
+  offset: 0, 0
+  index: -1
+鱼鳍2
+  rotate: false
+  xy: 616, 1065
+  size: 560, 175
+  orig: 560, 175
+  offset: 0, 0
+  index: -1
+鱼鳍3
+  rotate: false
+  xy: 616, 1242
+  size: 603, 273
+  orig: 603, 273
+  offset: 0, 0
+  index: -1
+鱼鳍4
+  rotate: false
+  xy: 2, 145
+  size: 418, 327
+  orig: 418, 327
+  offset: 0, 0
+  index: -1

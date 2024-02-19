@@ -1,0 +1,412 @@
+{"frames": {
+
+"bottle2-sprite-00000.png":
+{
+	"frame": {"x":425,"y":1323,"w":141,"h":401},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":47,"w":141,"h":401},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00001.png":
+{
+	"frame": {"x":1569,"y":862,"w":143,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":38,"w":143,"h":410},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00002.png":
+{
+	"frame": {"x":1714,"y":862,"w":141,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":36,"w":141,"h":412},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00003.png":
+{
+	"frame": {"x":1461,"y":438,"w":143,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":30,"w":143,"h":418},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00004.png":
+{
+	"frame": {"x":998,"y":871,"w":144,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":24,"w":144,"h":424},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00005.png":
+{
+	"frame": {"x":708,"y":876,"w":144,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":18,"w":144,"h":430},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00006.png":
+{
+	"frame": {"x":298,"y":449,"w":142,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":12,"w":142,"h":436},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00007.png":
+{
+	"frame": {"x":152,"y":449,"w":144,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":6,"w":144,"h":442},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00008.png":
+{
+	"frame": {"x":736,"y":443,"w":145,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":18,"w":145,"h":430},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00009.png":
+{
+	"frame": {"x":741,"y":1,"w":148,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":12,"w":148,"h":436},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00010.png":
+{
+	"frame": {"x":1144,"y":871,"w":141,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":26,"w":141,"h":422},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00011.png":
+{
+	"frame": {"x":1174,"y":440,"w":142,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":20,"w":142,"h":428},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00012.png":
+{
+	"frame": {"x":442,"y":447,"w":144,"h":432},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":16,"w":144,"h":432},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00013.png":
+{
+	"frame": {"x":1187,"y":1,"w":144,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":11,"w":144,"h":437},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00014.png":
+{
+	"frame": {"x":1,"y":894,"w":146,"h":443},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":5,"w":146,"h":443},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00015.png":
+{
+	"frame": {"x":1627,"y":1,"w":143,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":9,"w":143,"h":439},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00016.png":
+{
+	"frame": {"x":299,"y":1,"w":144,"h":444},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":144,"h":444},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00017.png":
+{
+	"frame": {"x":1333,"y":1,"w":146,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":13,"w":146,"h":435},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00018.png":
+{
+	"frame": {"x":1029,"y":440,"w":143,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":19,"w":143,"h":429},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00019.png":
+{
+	"frame": {"x":1481,"y":1,"w":144,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":13,"w":144,"h":435},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00020.png":
+{
+	"frame": {"x":594,"y":1,"w":145,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":145,"h":440},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00021.png":
+{
+	"frame": {"x":152,"y":1,"w":145,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":145,"h":446},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00022.png":
+{
+	"frame": {"x":445,"y":1,"w":147,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":8,"w":147,"h":440},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00023.png":
+{
+	"frame": {"x":1,"y":1,"w":149,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":149,"h":446},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00024.png":
+{
+	"frame": {"x":562,"y":881,"w":144,"h":432},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":16,"w":144,"h":432},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00025.png":
+{
+	"frame": {"x":285,"y":893,"w":138,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":10,"w":138,"h":438},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00026.png":
+{
+	"frame": {"x":149,"y":894,"w":134,"h":445},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":3,"w":134,"h":445},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00027.png":
+{
+	"frame": {"x":425,"y":887,"w":135,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":14,"w":135,"h":434},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00028.png":
+{
+	"frame": {"x":568,"y":1315,"w":138,"h":408},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":40,"w":138,"h":408},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00029.png":
+{
+	"frame": {"x":853,"y":1308,"w":139,"h":413},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":35,"w":139,"h":413},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00030.png":
+{
+	"frame": {"x":1318,"y":440,"w":141,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":29,"w":141,"h":419},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00031.png":
+{
+	"frame": {"x":854,"y":875,"w":142,"h":425},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":23,"w":142,"h":425},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00032.png":
+{
+	"frame": {"x":883,"y":439,"w":144,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":18,"w":144,"h":430},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00033.png":
+{
+	"frame": {"x":891,"y":1,"w":146,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":12,"w":146,"h":436},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00034.png":
+{
+	"frame": {"x":588,"y":443,"w":146,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":17,"w":146,"h":431},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00035.png":
+{
+	"frame": {"x":1039,"y":1,"w":146,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":11,"w":146,"h":437},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00036.png":
+{
+	"frame": {"x":1,"y":449,"w":149,"h":443},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":5,"w":149,"h":443},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00037.png":
+{
+	"frame": {"x":1565,"y":1278,"w":139,"h":392},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":56,"w":139,"h":392},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00038.png":
+{
+	"frame": {"x":1423,"y":1293,"w":140,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":51,"w":140,"h":397},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00039.png":
+{
+	"frame": {"x":1281,"y":1295,"w":140,"h":402},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":46,"w":140,"h":402},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00040.png":
+{
+	"frame": {"x":994,"y":1302,"w":141,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":42,"w":141,"h":406},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00041.png":
+{
+	"frame": {"x":1137,"y":1297,"w":142,"h":405},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":43,"w":142,"h":405},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00042.png":
+{
+	"frame": {"x":708,"y":1308,"w":143,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":38,"w":143,"h":410},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00043.png":
+{
+	"frame": {"x":1429,"y":861,"w":138,"h":415},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":33,"w":138,"h":415},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00044.png":
+{
+	"frame": {"x":1287,"y":870,"w":140,"h":421},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":27,"w":140,"h":421},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00045.png":
+{
+	"frame": {"x":1606,"y":442,"w":140,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":30,"w":140,"h":418},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00046.png":
+{
+	"frame": {"x":138,"y":1341,"w":134,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":70,"w":134,"h":378},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00047.png":
+{
+	"frame": {"x":1,"y":1339,"w":135,"h":383},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":65,"w":135,"h":383},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00048.png":
+{
+	"frame": {"x":285,"y":1333,"w":138,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":60,"w":138,"h":388},
+	"sourceSize": {"w":169,"h":450}
+},
+"bottle2-sprite-00049.png":
+{
+	"frame": {"x":1706,"y":1276,"w":139,"h":392},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":56,"w":139,"h":392},
+	"sourceSize": {"w":169,"h":450}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bottle2-sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":1856,"h":1725},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:27e8d0edc43e59125ab4bc899802c3a8:1bbcbc4547fb49edc774c3ec69b487a9:b0ea76eb8555f586093fe5d55a216489$"
+}
+}
